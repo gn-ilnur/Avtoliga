@@ -1,0 +1,827 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>АВТОЛИГА</title>
+<meta name="viewport" content="user-scalable=no">
+<script>var mvp = document.getElementsByName('viewport')[0];if (screen.width >= 768 && screen.width <= 980) {mvp.setAttribute('content','width=980, user-scalable=no, initial-scale=1.0, minimal-scale=1.0');} else {mvp.setAttribute('content','width=device-width, user-scalable=no');}</script><meta property="og:title" content="АВТОЛИГА">
+<meta property="twitter:title" content="АВТОЛИГА">
+<meta name="twitter:card" content="summary">
+<style class="font-setup">@import url(http://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,600,600i,700,700i%7CPlayfair+Display:300,300i,400,400i,600,600i,700,700i&subset=cyrillic); 
+body .text-style-title { font-family: Roboto, sans-serif }
+body .text-style-subtitle { font-family: Roboto, sans-serif }
+body { font-family: Roboto, sans-serif !important }
+body .text-style-quote { font-family: Playfair Display, sans-serif }</style><link href="_s/theme/1/_core-1475058571503.css" rel="stylesheet" type="text/css" media="all">
+<link href="_app/lp/120080_1475157600.css" rel="stylesheet" type="text/css" media="all">
+<script src="_s/lib/jquery/jquery-1.11.3.js" type="text/javascript"></script>
+<script src="_s/lib/jquery/jquery-migrate-1.2.1.js" type="text/javascript"></script>
+</head>
+<body class="adaptive">
+<div class="container-list"><div class="b_block b_86762" data-id="86762" data-b-id="17"    > <div class="container-fluid"><a class="_anchor" name="b_86762"></a><div class="container">
+
+    <div class="logo-holder ">
+        <div class="logo" style="background-image: url('img/2400214/logo.png'); height: 76px; width: 228px; ">
+            
+        </div>
+        
+    </div>
+
+    <div class="icons-holder span_ico" style="color: #302F32">
+        <div class="ico_wrap ico_1">
+            
+                
+                    <div class="ico ico_svg" style="text-align:center; line-height: 55px;">
+                        <svg viewBox="0 0 50 50" width="40" height="40" style="vertical-align:middle; fill:currentColor;">
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/_s/images/svg/line/85.svg#icon"></use>
+                        </svg>
+                    </div>
+                
+            
+            <div class="ico_name"><p>ОПЫТ РАБОТЫ</p><p>С 2001 ГОДА</p></div>
+        </div>
+        <div class="ico_wrap ico_2">
+            
+                
+                    <div class="ico ico_svg" style="text-align:center; line-height: 55px;">
+                        <svg viewBox="0 0 50 50" width="40" height="40" style="vertical-align:middle; fill:currentColor;">
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/_s/images/svg/line/40.svg#icon"></use>
+                        </svg>
+                    </div>
+                
+            
+            <div class="ico_name"><p>БЕСПЛАТНЫЙ ЭВАКУАТОР</p></div>
+        </div>
+        <div class="ico_wrap ico_3">
+            
+                
+                    <div class="ico ico_svg" style="text-align:center; line-height: 55px;">
+                        <svg viewBox="0 0 50 50" width="40" height="40" style="vertical-align:middle; fill:currentColor;">
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/_s/images/svg/line/20.svg#icon"></use>
+                        </svg>
+                    </div>
+                
+            
+            <div class="ico_name"><div>ГАРАНТИЯ</div><div>1 ГОД</div></div>
+        </div>
+        <div style="clear: both"></div>
+    </div>
+    <div class="phone-holder">
+        <div class="phone"><p>8 (843) 203 92 76</p></div>
+        
+        <div class="span_btn">
+            <div class="btn_wrap">
+                <a data-modal-id="form" 
+                data-action="modal_form" class="btn" style="background-color: #C1103A;">ОБРАТНЫЙ ЗВОНОК</a></div>
+        </div>
+        
+    </div>
+</div>
+</div> </div> <div class="b_block b_69904" data-id="69904" data-b-id="67"    > <div class="container-fluid"><a class="_anchor" name="b_69904"></a><div class="container dark ">
+    <input type="hidden" name="menu_floating" value="0">
+    <div class="menu" data-color="">
+        <ul>
+                        <li>
+                <a href="#b_73878" >
+                АКЦИИ
+            </a>
+            </li>
+                        <li>
+                <a href="#b_33423" >
+                ЦЕНЫ
+            </a>
+            </li>
+                        <li>
+                <a href="#b_49137" >
+                НАША КОМАНДА
+            </a>
+            </li>
+                        <li>
+                <a href="#b_97348" >
+                ОЦЕНКА ПО ФОТО
+            </a>
+            </li>
+                        <li>
+                <a href="#b_97348" >
+                WHATSAPP
+            </a>
+            </li>
+                        <li>
+                <a href="#b_97348" >
+                VIBER
+            </a>
+            </li>
+                    </ul>
+    </div>
+
+    <div class="mobile-menu-button">
+        <a href="#mm67">
+            <span data-menu-text></span>
+            <svg class="icon" width="26" height="26" style="vertical-align:middle; fill:currentColor;" viewBox="0 0 344.339 344.339">
+                <path d="M0 46.06h344.34v29.52H0zM0 156.506h344.34v29.52H0zM0 268.748h344.34v29.53H0z"></path>
+            </svg>
+        </a>
+    </div>
+    <div class="mobile-menu-holder">
+        <div class="mobile-menu" id="mm67" data-color="">
+            <ul>
+                                <li>
+                    <a href="#b_73878" >
+                    АКЦИИ
+                </a>
+                </li>
+                                <li>
+                    <a href="#b_33423" >
+                    ЦЕНЫ
+                </a>
+                </li>
+                                <li>
+                    <a href="#b_49137" >
+                    НАША КОМАНДА
+                </a>
+                </li>
+                                <li>
+                    <a href="#b_97348" >
+                    ОЦЕНКА ПО ФОТО
+                </a>
+                </li>
+                                <li>
+                    <a href="#b_97348" >
+                    WHATSAPP
+                </a>
+                </li>
+                                <li>
+                    <a href="#b_97348" >
+                    VIBER
+                </a>
+                </li>
+                            </ul>
+        </div>
+        <div class="mobile-menu-drop">
+            <div class="close">
+                <svg version="1.1" width="35" height="35" viewBox="0 0 224.512 224.512">
+                    <polygon style="fill:currentColor;" points="224.507,6.997 217.521,0 112.256,105.258 6.998,0 0.005,6.997 105.263,112.254 0.005,217.512 6.998,224.512 112.256,119.24 217.521,224.512 224.507,217.512 119.249,112.254" />
+                </svg>
+            </div>
+        </div>
+    </div>
+
+<div style="clear: both"></div>
+</div>
+</div> </div> <div class="b_block b_85693" data-id="85693" data-b-id="2" data-video-bg="{&quot;type&quot;:&quot;youtube&quot;,&quot;id&quot;:&quot;njG0rIO-WDs&quot;}"   > <div class="container-fluid"><a class="_anchor" name="b_85693"></a><div class="filter dark">
+    <div class="container">
+        <div class="text-holder">
+            <div class="mobile-helper">
+                <div class="title_1 text-style-title">
+                    <ul>
+                        
+                        <li>ОТРЕМОНТИРУЙ</li>
+                        
+                        <li>РОДНОЙ ДВИГАТЕЛЬ</li>
+                        
+                    </ul>
+                </div>
+
+                
+                <div class="title_2 text-style-title">
+                    <ul>
+                        
+                        <li>С НАМИ ВЫ ЭКОНОМИТЕ ДО 50%</li>
+                        
+                        <li>ОТ СТОИМОСТИ НОВОГО</li>
+                        
+                    </ul>
+                </div>
+                
+            </div>
+        </div>
+
+        <div class="form-holder">
+            <div class="form">
+                <div class="form_title"><p>ОСТАВЬ ЗАЯВКУ<strong></strong></p></div>
+                <div class="form_title_2"><p>НА КОНСУЛЬТАЦИЮ ПО РЕМОНТУ ДВИГАТЕЛЯ ВАШЕГО АВТОМОБИЛЯ</p></div>
+                <div class="form_data">
+                    <form action="/mod/lead/send/" method="post" enctype="multipart/form-data" novalidate>
+                        <input type="hidden" name="goal" value=""><textarea name="goal_html" style="display:none"></textarea>
+                        <input type="hidden" name="name" value="Заявка">
+                        <input type="hidden" name="action" value="modal_done">
+                        
+                        
+                        <div class="form_fields">
+                            
+                            <input type="hidden" name="type[10001]" value="text">
+                            <input type="hidden" name="vars[10001]" value="Имя">
+                            <div class="form_field" data-type="text" data-is-required="true">
+                                
+                                <label>
+                                    <div class="field_title">Имя:<i>*</i></div>
+                                    
+                                    <input type="text" class="form_field_text" name="form[10001]">
+                                    <div class="error"></div>
+                                </label>
+                                
+                            </div>
+                            
+                            <input type="hidden" name="type[10002]" value="text">
+                            <input type="hidden" name="vars[10002]" value="Телефон">
+                            <div class="form_field" data-type="text" data-is-required="true">
+                                
+                                <label>
+                                    <div class="field_title">Телефон:<i>*</i></div>
+                                    
+                                    <input type="text" class="form_field_text" name="form[10002]">
+                                    <div class="error"></div>
+                                </label>
+                                
+                            </div>
+                            
+                        </div>
+                        <div class="form_submit">
+                            <a class="form_field_submit blue" data-modal-id="done"><div><span>ПРОВЕРЬ БЕСПЛАТНО КОМПРЕССИЮ ДВИГАТЕЛЯ</span></div></a>
+                        </div>
+                    </form>
+                </div>
+                <div class="form_bottom">Мы не передаем Вашу персональную информацию третьим лицам
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+</div> </div> <div class="b_block b_73878" data-id="73878" data-b-id="42"    > <div class="container-fluid"><a class="_anchor" name="b_73878"></a><div class="container" data-title2="#FF3E3E">
+    <div class="title text-style-title"><p>АКЦИЯ ДЕЙСТВУЕТ ДО 1 НОЯБРЯ 2016г.</p></div>
+    <div class="title_2 text-style-subtitle"></div>
+    <div class="timer_desc"><p>До окончания акции осталось:</p></div>
+    <div class="timer" data-time="{&quot;type&quot;:&quot;date&quot;,&quot;d&quot;:&quot;31&quot;,&quot;my&quot;:&quot;10.2016&quot;,&quot;dw&quot;:3,&quot;h&quot;:&quot;18&quot;,&quot;m&quot;:0}">
+        <div class="timer_digit clear">
+            <div class="d"><div><i data-value=""></i><i data-value=""></i><i data-value=""></i></div><span data-timer-text="dd"></span></div>
+            <div class="h"><div><i data-value=""></i><i data-value=""></i></div><span data-timer-text="hh"></span></div>
+            <div class="m"><div><i data-value=""></i><i data-value=""></i></div><span data-timer-text="mm"></span></div>
+            <div class="s"><div><i data-value=""></i><i data-value=""></i></div><span data-timer-text="ss"></span></div>
+        </div>
+    </div>
+</div>
+</div> </div> <div class="b_block b_33423" data-id="33423" data-b-id="4"    > <div class="container-fluid"><a class="_anchor" name="b_33423"></a><div class="container">
+    <div class="title text-style-title"><p>СТОИМОСТЬ РАБОТ</p></div>
+    <div class="title_2 text-style-subtitle"><p>по ремонту двигателей</p></div>
+
+    <div class="item_list lg-init" data-lg-single="true">
+        
+        <div class="item" data-item-id="1">
+            <div class="item_data">
+                
+                    <a class="img "
+                        
+                        data-img-name="vesta-pro.jpg" data-img-id="2401846" data-img-size="350"
+                        style="display:block; background-image: url('img/2401846_350/vesta-pro.jpg'); background-position: 50% 50%">
+                    </a>
+                
+                <div class="name text-style-subtitle"><p>____________________________</p><p>ОТЕЧЕСТВЕННЫЕ АВТО</p><p>--------------------------------</p><p>СРОК: 2 дня<br></p><p>--------------------------------</p><p>СТОИМОСТЬ: от 20 000 руб.<br></p><p>____________________________</p></div>
+                <div class="desc"></div>
+                <div class="price"></div>
+                
+                    
+                    <div class="btn_wrap"><div class="btn form_btn btn_group">
+                        <a class="blue" data-action="modal_form" data-modal-id="form"><div><span>Заказать</span></div></a>
+                    </div></div>
+                    
+                
+            </div>
+        </div>
+        
+        <div class="item" data-item-id="2">
+            <div class="item_data">
+                
+                    <a class="img "
+                        
+                        data-img-name="benzin.jpg" data-img-id="2401880" data-img-size="350"
+                        style="display:block; background-image: url('img/2401880_350/benzin.jpg'); background-position: 50% 50%">
+                    </a>
+                
+                <div class="name text-style-subtitle"><p>____________________________</p><p>ИНОМАРКИ<br></p><p>--------------------------------</p><p>СРОК: 3 дня<br></p><p>--------------------------------</p><p>СТОИМОСТЬ: от 30 000 руб.<br></p><p>____________________________</p></div>
+                <div class="desc"></div>
+                <div class="price"></div>
+                
+                    
+                    <div class="btn_wrap"><div class="btn form_btn btn_group">
+                        <a class="blue" data-action="modal_form" data-modal-id="form"><div><span>Заказать</span></div></a>
+                    </div></div>
+                    
+                
+            </div>
+        </div>
+        
+        <div class="item" data-item-id="3">
+            <div class="item_data">
+                
+                    <a class="img "
+                        
+                        data-img-name="vnedorozh.jpg" data-img-id="2401937" data-img-size="350"
+                        style="display:block; background-image: url('img/2401937_350/vnedorozh.jpg'); background-position: 50% 50%">
+                    </a>
+                
+                <div class="name text-style-subtitle"><p>____________________________</p><p>ВНЕДОРОЖНИКИ </p><p>--------------------------------</p><p>СРОК: 3 дня<br></p><p>--------------------------------</p><p>СТОИМОСТЬ: от 35 000 руб.<br></p><p>____________________________</p></div>
+                <div class="desc"></div>
+                <div class="price"></div>
+                
+                    
+                    <div class="btn_wrap"><div class="btn form_btn btn_group">
+                        <a class="blue" data-action="modal_form" data-modal-id="form"><div><span>Заказать</span></div></a>
+                    </div></div>
+                    
+                
+            </div>
+        </div>
+        
+    </div>
+</div>
+</div> </div> <div class="b_block b_49137" data-id="49137" data-b-id="6"    > <div class="container-fluid"><a class="_anchor" name="b_49137"></a><div class="container">
+    <div class="title text-style-title"><p>НАША КОМАНДА</p></div>
+    
+
+    <div class="item_list lg-init clear">
+        
+        <div class="item" data-item-id="1">
+            <a class="img img_popup"
+                
+                    data-sub-html=""
+                
+                href="img/2405201_2560/utkin.jpg"
+                target="_blank">
+                    <div class="preview_img" style="background-image: url('img/2405201_600/utkin.jpg'); background-position: 78.67% 69.43%"></div>
+                    
+            </a>
+        </div>
+        
+        <div class="item" data-item-id="2">
+            <a class="img img_popup"
+                
+                    data-sub-html=""
+                
+                href="img/2405179_2560/said.jpg"
+                target="_blank">
+                    <div class="preview_img" style="background-image: url('img/2405179_600/said.jpg'); background-position: 55.56% 28.04%"></div>
+                    
+            </a>
+        </div>
+        
+        <div class="item" data-item-id="3">
+            <a class="img img_popup"
+                
+                    data-sub-html=""
+                
+                href="img/2405178_2560/utkin3.jpg"
+                target="_blank">
+                    <div class="preview_img" style="background-image: url('img/2405178_600/utkin3.jpg'); background-position: 50% 50%"></div>
+                    
+            </a>
+        </div>
+        
+        <div class="item" data-item-id="4">
+            <a class="img img_popup"
+                
+                    data-sub-html=""
+                
+                href="img/2405151_2560/utkin1.jpg"
+                target="_blank">
+                    <div class="preview_img" style="background-image: url('img/2405151_600/utkin1.jpg'); background-position: 50% 50%"></div>
+                    
+            </a>
+        </div>
+        
+        <div class="item" data-item-id="5">
+            <a class="img img_popup"
+                
+                    data-sub-html=""
+                
+                href="img/2405133_2560/utkin2.jpg"
+                target="_blank">
+                    <div class="preview_img" style="background-image: url('img/2405133_600/utkin2.jpg'); background-position: 50% 50%"></div>
+                    
+            </a>
+        </div>
+        
+        <div class="item" data-item-id="6">
+            <a class="img img_popup"
+                
+                    data-sub-html=""
+                
+                href="img/2405127_2560/utkin4.jpg"
+                target="_blank">
+                    <div class="preview_img" style="background-image: url('img/2405127_600/utkin4.jpg'); background-position: 54.22% 48.07%"></div>
+                    
+            </a>
+        </div>
+        
+        <div style="clear: both"></div>
+    </div>
+</div>
+</div> </div> <div class="b_block b_10009" data-id="10009" data-b-id="9"    > <div class="container-fluid"><a class="_anchor" name="b_10009"></a><div class="container">
+    <div class="title text-style-title"><p>МНЕНИЕ КЛИЕНТОВ О НАШЕМ ТЕХЦЕНТРЕ</p></div>
+    
+
+    <div class="item_list lg-init clear " data-lg-single="true">
+        <div class="slider">
+        
+        <div class="item" data-item-id="1">
+            <div class="item_data">
+                <div class="text"><p>Всем привет. <br>Пишу отзыв из Красноярска.<br>ОГРОМНОЕ спасибо вам ребята! Мой форд мондео доехал до Крыма и благополучно вернулся в Красноярск, и все благодаря вам! <br>Позвонив а Автолигу, мне сразу предложили приехать в любое время (я транзитник) и найти причину.<br>Ребята прошерстили все, что может давать мои симптомы. Нашли причину, помогли с запчастями. Машинка полетела.<br>Ребята, спасибо вам за понимание, отзывчивость и ваш профессионализм! Вы лучшие!</p></div>
+                <div class="namedesc-holder">
+                  <div class="name text-style-subtitle"><p>Владимир Лагутин</p></div>
+                  <div class="desc"><p>отзыв оставлен на flamp.ru</p></div>
+                </div>
+                <div class="img_holder">
+                    <div class="img_wrap">
+                        <div class="img"
+                            
+                            data-img-name="92ae9020.jpg" data-img-id="2421458" data-img-size="100"
+                            style="background-image: url('img/2421458_100/92ae9020.jpg'); background-position: 53.33% 21.67%">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="item" data-item-id="2">
+            <div class="item_data">
+                <div class="text"><p>Отличный техцентр! </p><p>Квалифицированный персонал. И, что редкость для автосервиса, очень приятно и вежливо разговаривают, понимают образно-женский язык объяснения что же в машине не так, помогают во всем разобраться и сделать выбор. </p><p>Бесплатно моют машину, сами загоняют машину и выгоняют.</p><p><br></p><p>И еще меня очень порадовали цены! </p><p><br></p><p>Особенно для такого уровня сервиса. Очень рекомендую.</p></div>
+                <div class="namedesc-holder">
+                  <div class="name text-style-subtitle"><p>Виктория Ишкуватова</p></div>
+                  <div class="desc"><p>отзыв оставлен на flamp.ru</p></div>
+                </div>
+                <div class="img_holder">
+                    <div class="img_wrap">
+                        <div class="img"
+                            
+                            data-img-name="woman-car.jpg" data-img-id="2421459" data-img-size="100"
+                            style="background-image: url('img/2421459_100/woman-car.jpg'); background-position: 12.00% 15.42%">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="item" data-item-id="3">
+            <div class="item_data">
+                <div class="text"><p>Уже несколько раз обращался в этот техцентр, так что сложилось общее мнение.</p><p>Приемщики всегда отзывчивые, ничего излишне не навязывают, говорят коротко и по делу. По записи принимают всегда четко и без нареканий.</p><p><br>По ремонту тоже проблем не было. Все что заявлено и обговорено, было выполнено на хорошем уровне. Если что-то не получается всегда звонят и предлагают варианты как сделать. Замененные запчасти не выкидывают в тихую, а предлагают сначала предлагают забрать, а уж потом выкинуть.</p></div>
+                <div class="namedesc-holder">
+                  <div class="name text-style-subtitle"><p>Денис Громов</p></div>
+                  <div class="desc"><p>отзыв оставлен на flamp.ru</p></div>
+                </div>
+                <div class="img_holder">
+                    <div class="img_wrap">
+                        <div class="img"
+                            
+                            data-img-name="pavel-podgajskij.jpg" data-img-id="2400445" data-img-size="100"
+                            style="background-image: url('img/2400445_100/pavel-podgajskij.jpg'); background-position: 50% 50%">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+      </div>
+
+      
+    </div>
+</div>
+</div> </div> <div class="b_block b_97348" data-id="97348" data-b-id="95"    > <div class="container-fluid"><a class="_anchor" name="b_97348"></a><div class="container">
+
+    
+    <div class="title_1 text-style-title"><p>ЗАПИШИСЬ НА БЕСПЛАТНУЮ КОНСУЛЬТАЦИЮ</p></div>
+    
+
+    
+    <div class="title_2 text-style-subtitle"><p>Оставь заявку и наш менеджер свяжется с вами</p></div>
+    
+    <div class="form">
+        <div class="form_data ">
+            <form action="/mod/lead/send/" method="post" enctype="multipart/form-data" novalidate>
+                <input type="hidden" name="goal" value=""><textarea name="goal_html" style="display:none"></textarea>
+                <input type="hidden" name="name" value="Заявка">
+                <input type="hidden" name="action" value="modal_done">
+                
+                
+
+                <div class="form_fields">
+                    
+                    <input type="hidden" name="type[10001]" value="name">
+                    <input type="hidden" name="vars[10001]" value="Имя">
+                    <div class="form_field" data-type="name" data-is-required="false">
+                        
+                        <label>
+                            <input type="text" class="form_field_text" name="form[10001]" placeholder="Имя">
+                            <div class="error"></div>
+                        </label>
+                        
+                    </div>
+                    
+                    <input type="hidden" name="type[10002]" value="phone">
+                    <input type="hidden" name="vars[10002]" value="Телефон">
+                    <div class="form_field" data-type="phone" data-is-required="true">
+                        
+                        <label>
+                            <input type="text" class="form_field_text" name="form[10002]" data-check="phone" placeholder="Телефон*">
+                            <div class="error"></div>
+                        </label>
+                        
+                    </div>
+                    
+                    <input type="hidden" name="type[10003]" value="email">
+                    <input type="hidden" name="vars[10003]" value="Email">
+                    <div class="form_field" data-type="email" data-is-required="false">
+                        
+                        <label>
+                            <input type="text" class="form_field_text" name="form[10003]" data-check="email" placeholder="Email">
+                            <div class="error"></div>
+                        </label>
+                        
+                    </div>
+                    
+                </div>
+                <div class="form_submit">
+                    <a class="form_field_submit red" data-modal-id="done"><div><span>Заказать</span></div></a>
+                </div>
+            </form>
+        </div>
+    </div>
+    
+</div>
+</div> </div> <div class="b_block b_35577" data-id="35577" data-b-id="69" data-video-bg="{&quot;type&quot;:&quot;youtube&quot;,&quot;id&quot;:&quot;njG0rIO-WDs&quot;}"   > <div class="container-fluid"><a class="_anchor" name="b_35577"></a><div class="bg_image parallax size-1">
+<div class="bg_filter_noise">
+    <div class="container">
+        
+            <div class="valign">
+                <div class="title_1 text-style-title"><p>МЫ ЖДЕМ ВАС В ТЕХЦЕНТРЕ "АВТОЛИГА"</p></div>
+                <div class="title_2 text-style-subtitle"></div>
+            </div>
+        
+    </div>
+</div>
+</div>
+</div> </div> <div class="b_block b_10010" data-id="10010" data-b-id="10"    > <div class="container-fluid"><div class="map_wrap">
+    
+    <div class="container">
+        <div class="map_overlay">
+            <div class="item_list clear">
+                
+                <div class="item clear" data-item-id="1">
+                    <div class="title"><p>АДРЕСА ТЕХЦЕНТРОВ:</p></div>
+                    <div class="desc"><p style="text-align: center;">ул.  Московская, д. 22</p><p style="text-align: center;">ул. Краснококшайская, д. 43</p><p style="text-align: center;">ул. Восход, д. 43</p><p style="text-align: justify;"><br></p><p style="text-align: center;"><strong>8 (843) 203 92 76</strong></p></div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="map" data-map="{&quot;type&quot;:&quot;yandex&quot;,&quot;center&quot;:[55.816879522321,49.09148476709],&quot;zoom&quot;:12,&quot;places&quot;:[{&quot;address&quot;:&quot;г.Казань, ул. Московская, 22&quot;,&quot;coords&quot;:[55.790388,49.105561],&quot;color&quot;:&quot;blue&quot;},{&quot;address&quot;:&quot;г.Казань, ул. Краснококшайская, 43&quot;,&quot;coords&quot;:[55.810101,49.073266],&quot;color&quot;:&quot;blue&quot;},{&quot;address&quot;:&quot;г.Казань, ул. Восход, 43&quot;,&quot;coords&quot;:[55.840841,49.072512],&quot;color&quot;:&quot;blue&quot;}]}"></div>
+    <div class="overlay"></div>
+</div>
+</div> </div> <div class="b_block b_80295" data-id="80295" data-b-id="88"    > <div class="container-fluid"><a class="_anchor" name="b_80295"></a><div class="container">
+    <div class="logo-holder ">
+      <div class="logo" style="background-image: url('img/2400305/logo.png'); height: 75px; width: 225px; ">
+          
+      </div>
+    </div>
+    <div class="phone-holder">
+        <div class="phone"><p>8 (843) 203 92 76</p></div>
+        
+        
+        <div class="socials">
+          
+            <a href="http://www.instagram.com/avtoliga" class="social-instagram rounded" style="color: #aeaeaf" title="Instagram"></a>
+          
+            <a href="http://vk.com/avtoliga" class="social-vk rounded" style="color: #aeaeaf" title=""></a>
+          
+            <a href="http://www.youtube.com/channel/UCcZVPchHLH0m4lwhIMp6HPw" class="social-yt rounded" style="color: #aeaeaf" title="YouTube"></a>
+          
+            <a href="http://www.facebook.com/avtoliga1" class="social-fb rounded" style="color: #aeaeaf" title=""></a>
+          
+            <a href="http://ok.ru/profile/575642797806" class="social-ok rounded" style="color: #aeaeaf" title="Одноклассники"></a>
+          
+        </div>
+        
+    </div>
+    <div class="desc-holder">
+        <div class="desc"><p>ООО «ЗАО ВЕДА», 420111, г. Казань, ул. Московская, д.22,</p><p>ИНН 1655355408 ОГРН 11616990084148</p></div>
+        <div class="policy_wrap">
+            <a class="policy"
+                 data-modal-id="policy" 
+                data-action="modal_policy">
+                Политика конфиденциальности
+            </a>
+        </div>
+    </div>
+</div>
+
+
+</div> </div></div>
+<div class="modal-list"><div class="m_modal m_86762_form" data-id="86762_form" data-m-id="1" data-data="{&quot;form_title&quot;:&quot;Оформить заявку&quot;,&quot;form_bottom&quot;:&quot;Мы не передаем Вашу персональную информацию третьим лицам&quot;,&quot;form&quot;:{&quot;submit&quot;:&quot;Заказать&quot;,&quot;submit_color&quot;:&quot;green&quot;,&quot;name&quot;:&quot;Заявка&quot;,&quot;action&quot;:&quot;modal_done&quot;,&quot;modal_id&quot;:&quot;done&quot;,&quot;list&quot;:[{&quot;id&quot;:10001,&quot;type&quot;:&quot;text&quot;,&quot;name&quot;:&quot;Имя&quot;,&quot;desc&quot;:&quot;&quot;,&quot;is_required&quot;:&quot;true&quot;},{&quot;id&quot;:10002,&quot;type&quot;:&quot;text&quot;,&quot;name&quot;:&quot;Телефон&quot;,&quot;desc&quot;:&quot;&quot;,&quot;is_required&quot;:&quot;true&quot;}]},&quot;show_form_bottom&quot;:1,&quot;is_editor&quot;:false}"><div class="modal-data"><a class="close"></a>
+<div class="container">
+    <div class="form">
+        <div class="form_title">Оформить заявку</div>
+        <div class="form_data">
+            <form action="/mod/lead/send/" method="post" enctype="multipart/form-data" novalidate>
+                <!-- данные самой формы -->
+                <div class="form_info">
+                    <input type="hidden" name="goal" value=""><textarea name="goal_html" style="display:none"></textarea>
+                    <input type="hidden" name="name" value="Заявка">
+                    <input type="hidden" name="action" value="modal_done">
+
+                    
+                                    </div>
+
+                <!-- поля формы -->
+                <div class="form_fields">
+                                        <div class="form_field" data-type="text" data-is-required="true">
+                        <input type="hidden" name="type[10001]" value="text">
+                        <input type="hidden" name="vars[10001]" value="Имя">
+
+                                                <label>
+                            <div class="field_title">Имя:<i>*</i></div>
+                                                        <input type="text" class="form_field_text" name="form[10001]">
+                            <div class="error"></div>
+                        </label>
+
+                        
+                    </div>
+                                        <div class="form_field" data-type="text" data-is-required="true">
+                        <input type="hidden" name="type[10002]" value="text">
+                        <input type="hidden" name="vars[10002]" value="Телефон">
+
+                                                <label>
+                            <div class="field_title">Телефон:<i>*</i></div>
+                                                        <input type="text" class="form_field_text" name="form[10002]">
+                            <div class="error"></div>
+                        </label>
+
+                        
+                    </div>
+                                    </div>
+
+                <!-- доп.поля формы -->
+                <div class="form_fields_advanced">
+
+                </div>
+
+                <!-- отправить -->
+                <div class="form_submit">
+                    <a class="form_field_submit green" data-modal-id="done"><div><span>Заказать</span></div></a>
+                </div>
+            </form>
+        </div>
+        <div class="form_bottom">Мы не передаем Вашу персональную информацию третьим лицам</div>
+    </div>
+</div>
+</div> </div> <div class="m_modal m_86762_done" data-id="86762_done" data-m-id="11" data-data="{&quot;title&quot;:&quot;Спасибо!&quot;,&quot;text&quot;:&quot;Ваш заказ принят в обработку. Мы свяжемся с вами в ближайшее время&quot;,&quot;title_tag&quot;:&quot;div&quot;,&quot;is_editor&quot;:false}"><div class="modal-data"><a class="close"></a>
+<div class="container">
+    <div class="text-holder">
+        <span class="title">
+            Спасибо!
+        </span>
+
+        <span class="text">
+            Ваш заказ принят в обработку. Мы свяжемся с вами в ближайшее время
+        </span>
+    </div>
+</div>
+</div> </div> <div class="m_modal m_85693_done" data-id="85693_done" data-m-id="11" data-data="{&quot;title&quot;:&quot;&lt;p&gt;Ваша заявка принята!&lt;/p&gt;&quot;,&quot;text&quot;:&quot;&lt;p&gt;&lt;img src=\&quot;/img/2400233_600/logo.png\&quot;&gt;&lt;/p&gt;&quot;,&quot;title_tag&quot;:&quot;div&quot;,&quot;is_editor&quot;:false}"><div class="modal-data"><a class="close"></a>
+<div class="container">
+    <div class="text-holder">
+        <span class="title">
+            <p>Ваша заявка принята!</p>
+        </span>
+
+        <span class="text">
+            <p><img src="img/2400233_600/logo.png"></p>
+        </span>
+    </div>
+</div>
+</div> </div> <div class="m_modal m_33423_form" data-id="33423_form" data-m-id="1" data-data="{&quot;form_title&quot;:&quot;Оформить заявку&quot;,&quot;form_bottom&quot;:&quot;Мы не передаем Вашу персональную информацию третьм лицам&quot;,&quot;form&quot;:{&quot;submit&quot;:&quot;Заказать&quot;,&quot;submit_color&quot;:&quot;blue&quot;,&quot;name&quot;:&quot;Заявка&quot;,&quot;action&quot;:&quot;modal_done&quot;,&quot;modal_id&quot;:&quot;done&quot;,&quot;list&quot;:[{&quot;id&quot;:&quot;10001&quot;,&quot;type&quot;:&quot;text&quot;,&quot;name&quot;:&quot;Имя&quot;,&quot;desc&quot;:&quot;&quot;,&quot;is_required&quot;:&quot;true&quot;},{&quot;id&quot;:&quot;10002&quot;,&quot;type&quot;:&quot;text&quot;,&quot;name&quot;:&quot;Телефон&quot;,&quot;desc&quot;:&quot;&quot;,&quot;is_required&quot;:&quot;true&quot;},{&quot;id&quot;:23112,&quot;type&quot;:&quot;checkbox&quot;,&quot;name&quot;:&quot;БЕНЗИН&quot;,&quot;desc&quot;:&quot;&quot;},{&quot;id&quot;:92116,&quot;type&quot;:&quot;checkbox&quot;,&quot;name&quot;:&quot;ДИЗЕЛЬ&quot;,&quot;desc&quot;:&quot;&quot;}],&quot;action_redirect&quot;:&quot;&quot;,&quot;pay&quot;:{&quot;price&quot;:&quot;&quot;,&quot;desc&quot;:&quot;&quot;,&quot;ext_price&quot;:true},&quot;goals&quot;:{&quot;goal&quot;:&quot;&quot;,&quot;goal_html&quot;:&quot;&quot;}},&quot;show_form_bottom&quot;:1,&quot;is_editor&quot;:false}"><div class="modal-data"><a class="close"></a>
+<div class="container">
+    <div class="form">
+        <div class="form_title">Оформить заявку</div>
+        <div class="form_data">
+            <form action="/mod/lead/send/" method="post" enctype="multipart/form-data" novalidate>
+                <!-- данные самой формы -->
+                <div class="form_info">
+                    <input type="hidden" name="goal" value=""><textarea name="goal_html" style="display:none"></textarea>
+                    <input type="hidden" name="name" value="Заявка">
+                    <input type="hidden" name="action" value="modal_done">
+
+                    
+                                    </div>
+
+                <!-- поля формы -->
+                <div class="form_fields">
+                                        <div class="form_field" data-type="text" data-is-required="true">
+                        <input type="hidden" name="type[10001]" value="text">
+                        <input type="hidden" name="vars[10001]" value="Имя">
+
+                                                <label>
+                            <div class="field_title">Имя:<i>*</i></div>
+                                                        <input type="text" class="form_field_text" name="form[10001]">
+                            <div class="error"></div>
+                        </label>
+
+                        
+                    </div>
+                                        <div class="form_field" data-type="text" data-is-required="true">
+                        <input type="hidden" name="type[10002]" value="text">
+                        <input type="hidden" name="vars[10002]" value="Телефон">
+
+                                                <label>
+                            <div class="field_title">Телефон:<i>*</i></div>
+                                                        <input type="text" class="form_field_text" name="form[10002]">
+                            <div class="error"></div>
+                        </label>
+
+                        
+                    </div>
+                                        <div class="form_field" data-type="checkbox" data-is-required="">
+                        <input type="hidden" name="type[23112]" value="checkbox">
+                        <input type="hidden" name="vars[23112]" value="БЕНЗИН">
+
+                                                <label class="form_field_checkbox_label">
+                            <input type="checkbox" class="form_field_checkbox" name="form[23112]" value="true">&nbsp;БЕНЗИН
+                        </label>
+
+                        
+                    </div>
+                                        <div class="form_field" data-type="checkbox" data-is-required="">
+                        <input type="hidden" name="type[92116]" value="checkbox">
+                        <input type="hidden" name="vars[92116]" value="ДИЗЕЛЬ">
+
+                                                <label class="form_field_checkbox_label">
+                            <input type="checkbox" class="form_field_checkbox" name="form[92116]" value="true">&nbsp;ДИЗЕЛЬ
+                        </label>
+
+                        
+                    </div>
+                                    </div>
+
+                <!-- доп.поля формы -->
+                <div class="form_fields_advanced">
+
+                </div>
+
+                <!-- отправить -->
+                <div class="form_submit">
+                    <a class="form_field_submit blue" data-modal-id="done"><div><span>Заказать</span></div></a>
+                </div>
+            </form>
+        </div>
+        <div class="form_bottom">Мы не передаем Вашу персональную информацию третьм лицам</div>
+    </div>
+</div>
+</div> </div> <div class="m_modal m_33423_done" data-id="33423_done" data-m-id="11" data-data="{&quot;title&quot;:&quot;Спасибо!&quot;,&quot;text&quot;:&quot;Ваш заказ принят в обработку. Мы свяжемся с вами в ближайшее время&quot;,&quot;title_tag&quot;:&quot;div&quot;,&quot;is_editor&quot;:false}"><div class="modal-data"><a class="close"></a>
+<div class="container">
+    <div class="text-holder">
+        <span class="title">
+            Спасибо!
+        </span>
+
+        <span class="text">
+            Ваш заказ принят в обработку. Мы свяжемся с вами в ближайшее время
+        </span>
+    </div>
+</div>
+</div> </div> <div class="m_modal m_97348_done" data-id="97348_done" data-m-id="11" data-data="{&quot;title&quot;:&quot;Спасибо!&quot;,&quot;text&quot;:&quot;Ваш заказ принят в обработку. Мы свяжемся с вами в ближайшее время&quot;,&quot;title_tag&quot;:&quot;div&quot;,&quot;is_editor&quot;:false}"><div class="modal-data"><a class="close"></a>
+<div class="container">
+    <div class="text-holder">
+        <span class="title">
+            Спасибо!
+        </span>
+
+        <span class="text">
+            Ваш заказ принят в обработку. Мы свяжемся с вами в ближайшее время
+        </span>
+    </div>
+</div>
+</div> </div> <div class="m_modal m_80295_policy" data-id="80295_policy" data-m-id="99" data-data="{&quot;title&quot;:&quot;Политика конфиденциальности&quot;,&quot;text&quot;:&quot;&lt;p&gt;Соблюдение Вашей конфиденциальности важно для нас. По этой причине, мы разработали Политику Конфиденциальности, которая описывает, как мы используем и храним Вашу информацию. Пожалуйста, ознакомьтесь с нашими правилами соблюдения конфиденциальности и сообщите нам, если у вас возникнут какие-либо вопросы. &lt;/p&gt; &lt;h3&gt; Сбор и использование персональной информации &lt;/h3&gt; &lt;p&gt;Под персональной информацией понимаются данные, которые могут быть использованы для идентификации определенного лица либо связи с ним.&lt;/p&gt; &lt;p&gt;От вас может быть запрошено предоставление вашей персональной информации в любой момент, когда вы связываетесь с нами.&lt;/p&gt; &lt;p&gt;Ниже приведены некоторые примеры типов персональной информации, которую мы можем собирать, и как мы можем использовать такую информацию.&lt;/p&gt;&lt;p&gt;Какую персональную информацию мы собираем:&lt;/p&gt;&lt;ul&gt; &lt;li&gt;Когда вы оставляете заявку на сайте, мы можем собирать различную информацию, включая ваши имя, номер телефона, адрес электронной почты и т.д.&lt;/li&gt; &lt;/ul&gt;&lt;p&gt;Как мы используем вашу персональную информацию:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Собираемая нами персональная информация позволяет нам связываться с вами и сообщать об уникальных предложениях, акциях и других мероприятиях и ближайших событиях.&lt;/li&gt; &lt;li&gt;Время от времени, мы можем использовать вашу персональную информацию для отправки важных уведомлений и сообщений. &lt;/li&gt;&lt;li&gt;Мы также можем использовать персональную информацию для внутренних целей, таких как проведения аудита, анализа данных и различных исследований в целях улучшения услуг предоставляемых нами и предоставления Вам рекомендаций относительно наших услуг.&lt;/li&gt; &lt;li&gt;Если вы принимаете участие в розыгрыше призов, конкурсе или сходном стимулирующем мероприятии, мы можем использовать предоставляемую вами информацию для управления такими программами.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Раскрытие информации третьим лицам&lt;/h3&gt; &lt;p&gt;Мы не раскрываем полученную от Вас информацию третьим лицам.&lt;/p&gt; &lt;p&gt;Исключения:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;В случае если необходимо — в соответствии с законом, судебным порядком, в судебном разбирательстве, и/или на основании публичных запросов или запросов от государственных органов на территории РФ — раскрыть вашу персональную информацию. Мы также можем раскрывать информацию о вас если мы определим, что такое раскрытие необходимо или уместно в целях безопасности, поддержания правопорядка, или иных общественно важных случаях. &lt;/li&gt; &lt;li&gt;В случае реорганизации, слияния или продажи мы можем передать собираемую нами персональную информацию соответствующему третьему лицу – правопреемнику.&lt;/li&gt;&lt;/ul&gt; &lt;h3&gt;Защита персональной информации&lt;/h3&gt; &lt;p&gt; Мы предпринимаем меры предосторожности — включая административные, технические и физические — для защиты вашей персональной информации от утраты, кражи, и недобросовестного использования, а также от несанкционированного доступа, раскрытия, изменения и уничтожения. &lt;/p&gt; &lt;h3&gt;Соблюдение вашей конфиденциальности на уровне компании&lt;/h3&gt; &lt;p&gt;Для того чтобы убедиться, что ваша персональная информация находится в безопасности, мы доводим нормы соблюдения конфиденциальности и безопасности до наших сотрудников, и строго следим за исполнением мер соблюдения конфиденциальности.&lt;/p&gt;&quot;,&quot;title_tag&quot;:&quot;div&quot;,&quot;is_editor&quot;:false}"><div class="modal-data"><a class="close"></a>
+<div class="container">
+    <span class="title">
+        Политика конфиденциальности
+    </span>
+
+    <div class="text-holder">
+        <span class="text">
+            <p>Соблюдение Вашей конфиденциальности важно для нас. По этой причине, мы разработали Политику Конфиденциальности, которая описывает, как мы используем и храним Вашу информацию. Пожалуйста, ознакомьтесь с нашими правилами соблюдения конфиденциальности и сообщите нам, если у вас возникнут какие-либо вопросы. </p> <h3> Сбор и использование персональной информации </h3> <p>Под персональной информацией понимаются данные, которые могут быть использованы для идентификации определенного лица либо связи с ним.</p> <p>От вас может быть запрошено предоставление вашей персональной информации в любой момент, когда вы связываетесь с нами.</p> <p>Ниже приведены некоторые примеры типов персональной информации, которую мы можем собирать, и как мы можем использовать такую информацию.</p><p>Какую персональную информацию мы собираем:</p><ul> <li>Когда вы оставляете заявку на сайте, мы можем собирать различную информацию, включая ваши имя, номер телефона, адрес электронной почты и т.д.</li> </ul><p>Как мы используем вашу персональную информацию:</p><ul><li>Собираемая нами персональная информация позволяет нам связываться с вами и сообщать об уникальных предложениях, акциях и других мероприятиях и ближайших событиях.</li> <li>Время от времени, мы можем использовать вашу персональную информацию для отправки важных уведомлений и сообщений. </li><li>Мы также можем использовать персональную информацию для внутренних целей, таких как проведения аудита, анализа данных и различных исследований в целях улучшения услуг предоставляемых нами и предоставления Вам рекомендаций относительно наших услуг.</li> <li>Если вы принимаете участие в розыгрыше призов, конкурсе или сходном стимулирующем мероприятии, мы можем использовать предоставляемую вами информацию для управления такими программами.</li> </ul> <h3>Раскрытие информации третьим лицам</h3> <p>Мы не раскрываем полученную от Вас информацию третьим лицам.</p> <p>Исключения:</p> <ul><li>В случае если необходимо — в соответствии с законом, судебным порядком, в судебном разбирательстве, и/или на основании публичных запросов или запросов от государственных органов на территории РФ — раскрыть вашу персональную информацию. Мы также можем раскрывать информацию о вас если мы определим, что такое раскрытие необходимо или уместно в целях безопасности, поддержания правопорядка, или иных общественно важных случаях. </li> <li>В случае реорганизации, слияния или продажи мы можем передать собираемую нами персональную информацию соответствующему третьему лицу – правопреемнику.</li></ul> <h3>Защита персональной информации</h3> <p> Мы предпринимаем меры предосторожности — включая административные, технические и физические — для защиты вашей персональной информации от утраты, кражи, и недобросовестного использования, а также от несанкционированного доступа, раскрытия, изменения и уничтожения. </p> <h3>Соблюдение вашей конфиденциальности на уровне компании</h3> <p>Для того чтобы убедиться, что ваша персональная информация находится в безопасности, мы доводим нормы соблюдения конфиденциальности и безопасности до наших сотрудников, и строго следим за исполнением мер соблюдения конфиденциальности.</p>
+        </span>
+    </div>
+</div>
+</div> </div></div>
+
+<script src="_s/theme/1/_core.js?1475058571503" type="text/javascript"></script>
+<!-- Yandex.Metrika counter --><script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter39859310 = new Ya.Metrika({id:39859310, webvisor:true, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="http://mc.yandex.ru/watch/39859310" style="position:absolute; left:-9999px;" alt=""></div></noscript><!-- /Yandex.Metrika counter -->
+<script>
+spaced_cli.s_id = 265693;
+spaced_cli.group_id = 74950;
+spaced_cli.p_id = 120080;
+spaced_cli.theme_id = 1;
+spaced_cli.current_lang = "ru";
+spaced_cli.yandex_id = '39859310';
+</script>
+</body>
+</html>
+
+<!-- Localized -->

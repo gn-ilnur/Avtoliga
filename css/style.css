@@ -1,0 +1,588 @@
+@font-face {
+    font-family: 'Open Sans';
+url('../fonts/OPenSans.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Open Sans Bold';
+url('../fonts/OpenSansBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Open Sans Light';
+url('../fonts/OpenSansLight.ttf') format('truetype');
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Open Sans", sans-serif;
+}
+
+p, a {
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+    line-height: 1.2;
+}
+
+.rules_block p {
+    font-size: 20px;
+}
+
+a button, input[type=submit] {
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+}
+
+.card-content {
+    min-height: 200px;
+}
+
+.card-action {
+    background-color: white;
+    opacity: 0.7;
+    text-align: center;
+    font-size: 14pt;
+    padding: 1pt !important;
+    min-height: 50pt;
+}
+
+.card h6 {
+    color: black;
+    opacity: 1;
+    vertical-align: bottom;
+}
+
+footer {
+    background-color: #0591cb !important;
+    margin-top: -90px;
+}
+
+footer.row {
+    margin-bottom: 0 !important;
+}
+
+footer h5 {
+    margin: 0;
+    padding: 0;
+}
+
+footer img {
+    margin-right: 10pt;
+}
+
+.copyright {
+    padding: 0;
+    margin: 0;
+}
+
+a.rules {
+    margin-left: 1%;
+    color: white !important;
+}
+
+header nav {
+    background-color: white !important;
+    max-height: 65px;
+}
+
+nav ul {
+    position: absolute;
+    width: 100%;
+}
+
+nav li {
+    float: none !important;
+    display: inline;
+    padding: 23px 0 !important;
+}
+
+nav a {
+    line-height: 65px !important;
+    display: inline !important;
+    padding-top: 22px !important;
+    padding-bottom: 22px !important;
+}
+
+nav .active {
+    border-top: 2px solid red;
+}
+
+.header-phone {
+    font-size: 20px;
+    font-weight: 600;
+    color: red;
+    line-height: 65px !important;
+    padding: 0 15pt;
+    margin-right: 20px;
+}
+
+header .brand-logo {
+    margin-left: 20pt;
+    margin-top: -18px;
+}
+
+.full-page {
+    min-height: 85vh;
+}
+
+table {
+    border-radius: 10px !important;
+    background-color: white;
+    overflow: hidden;
+}
+
+table .head td {
+    background-color: #ededed;
+    box-shadow: 7px 6px 10px 1px #cccccc;
+    border-top: none;
+}
+
+table :last-child {
+    border-bottom: none !important;
+}
+
+table td {
+    text-align: center;
+}
+
+.blue_text {
+    color: #0591cb;
+}
+
+.index_main {
+    background-image: url('../images/photos/15_years.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 0;
+    padding-top: 54%;
+}
+
+.index_main .index_main_content {
+    margin-top: -57%;
+}
+
+.index_main .index_main_content_page {
+    margin-top: -54%;
+}
+
+.index_main .index_main_buttons {
+    margin-top: 7%;
+}
+
+
+.index_winner .index_how_to_button {
+    margin-top: 25%;
+}
+
+
+.index_winner {
+    background-image: url('../images/photos/winner.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 0;
+    padding-top: 54%;
+}
+
+.index_winner .index_winner_content {
+    margin-top: -53%;
+}
+
+.index_how_to_win {
+    background-image: url('../images/photos/how_to_win.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 0;
+    padding-top: 37%;
+}
+
+.index_how_to_win .index_how_to_win_content {
+    margin-top: -34%;
+}
+
+.index_questions {
+    background-image: url('../images/photos/questions.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 0;
+    padding-top: 55%;
+}
+
+.index_questions .index_questions_content {
+    margin-top: -54%;
+}
+
+.index-footer {
+    margin-top: -4% !important;
+}
+
+.btn-blue {
+    background-color: #0591cb;
+    min-width: 70%;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.btn-blue a, .btn-red a, .btn-opacity a {
+    color: white;
+}
+
+.btn-white {
+    background-color: white;
+    color: #0591cb;
+    min-width: 70%;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.btn-red {
+    background-color: red;
+    min-width: 70%;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.btn-opacity {
+    border: 1px solid white;
+    background-image: none;
+    background-color: transparent;
+    min-width: 70%;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.question input[type=text], .question input[type=date], .question input[type=tel] {
+    background-color: #eeeeee !important;
+    border: none !important;
+    color: black !important;
+    opacity: 0.6;
+}
+input[type=text], input[type=date], input[type=tel] {
+    margin: 0 0 9px 0 !important;
+}
+
+.input-field {
+    margin-top: 0.5rem !important;
+}
+
+
+input::-webkit-input-placeholder {
+    color: black;
+}
+
+input::-moz-placeholder {
+    color: black;
+}
+
+/* Firefox 19+ */
+input:-moz-placeholder {
+    color: black;
+}
+
+/* Firefox 18- */
+input:-ms-input-placeholder {
+    color: black;
+}
+
+textarea {
+    background-color: #eeeeee !important;
+    border: none !important;
+    color: black !important;
+    height: auto !important;
+    opacity: 0.6;
+}
+
+a#pull {
+    display: none !important;
+}
+
+@media not screen and (min-width: 800px) {
+    .modal {
+        position:absolute;
+    }
+}
+
+@media all and (max-width: 1290px) {
+    h2 {
+        font-size: 2rem;
+    }
+
+    .index_how_to_win p {
+        font-size: 1.2rem;
+    }
+
+    .index_how_to_win .index_how_to_win_content {
+        margin-top: -35%;
+        margin-right: -7%;
+    }
+
+    .index_how_to_win .col {
+        margin-top: -2%;
+    }
+
+
+    input[type=text], input[type=date], input[type=tel] {
+        height:2rem !important;
+    }
+
+    .index_winner .index_how_to_button {
+        margin-top: 22%;
+    }
+}
+
+@media all and (max-width: 992px) {
+    nav {
+        border-bottom: 0;
+    }
+
+    nav ul {
+        display: none;
+        height: auto;
+        position: absolute;
+        top: 6.5%;
+        left: 0;
+        z-index: 3;
+    }
+
+    nav ul li {
+        display: block;
+        float: none;
+        background-color: white;
+    }
+
+    nav ul li:hover {
+        background-color: #c0c5e9;
+    }
+
+    nav .active {
+        border: none;
+    }
+
+    nav a#pull {
+        display: inline !important;
+        position: absolute;
+        left: 15px;
+        top: -8px;
+    }
+
+    nav a#pull img {
+        max-width: 7%;
+        min-width: 10px;
+        min-height: 10px;
+    }
+
+    h2, h4 {
+        font-size: 2.5rem;
+    }
+
+    .index_main_buttons {
+        margin-top: -10px !important;
+    }
+
+    .index_winner .index_how_to_button {
+        margin-top: 18%;
+    }
+
+    .index_how_to_win p {
+        font-size: 1rem;
+    }
+
+    button, input[type=submit] {
+        height: 45px !important;
+        line-height: 45px !important;
+    }
+
+    form.question {
+        margin-top: -50px;
+    }
+
+    .social {
+        display: none;
+    }
+}
+
+@media all and (max-width: 850px) {
+    textarea {
+        max-height: 8rem;
+    }
+
+    form.question {
+        margin-top: -10%;
+    }
+
+    .ask_questions {
+        font-size: 1.5rem !important;
+    }
+
+    .index-footer {
+        margin-top: -7% !important;
+        padding-top: 12px !important;
+    }
+
+
+    .index_how_to_button {
+        margin-top: 16%;
+    }
+}
+
+@media all and (max-width: 732px) {
+    .header-phone {
+        display: none;
+    }
+
+    footer .social {
+        display: none;
+    }
+
+    footer .copyright {
+        width: 100% !important;
+    }
+
+    h2, h4 {
+        font-size: 2rem;
+    }
+
+    .index_main_buttons {
+        margin-top: -25px !important;
+    }
+
+    .index_how_to_button {
+        margin-top: 2%;
+    }
+
+    .index_how_to_win .index_how_to_code_button {
+        margin-top: -5%;
+    }
+
+    .index_how_to_win p {
+        margin: 6px;
+    }
+
+    button {
+        height: 37px !important;
+        line-height: 37px !important;
+    }
+
+    form.question {
+        display: none;
+    }
+
+    .question_send {
+        display: block !important;
+    }
+}
+
+@media all and (max-width: 601px) {
+    nav {
+        line-height: 65px !important;
+    }
+
+    h2, h4 {
+        font-size: 1.8rem;
+    }
+
+    a button {
+        font-size: 0.9rem;
+    }
+
+    .index_how_to_win .col {
+        margin-top: 2%;
+    }
+
+    .index_how_to_win_content:first-child {
+        text-align: center;
+        float: none;
+        padding-right: 32px;
+    }
+
+    .index_how_to_win button{
+        background-color: #0591cb !important;
+    }
+
+    .index_how_to_win .index_how_to_code_button {
+        margin-left: -12% !important;
+    }
+
+}
+
+@media all and (max-width: 570px) {
+    nav .right {
+        display: none;
+    }
+
+    h2, h4 {
+        font-size: 1.5rem;
+    }
+
+    a button {
+        font-size: 0.7rem;
+    }
+
+    button {
+        margin: 2px !important;
+        height: 45px !important;
+        line-height: 45px !important;
+    }
+
+    .index_winner .index_winner_content {
+        margin-top: -57%;
+    }
+
+    .index_winner .index_how_to_button {
+        margin-top: 0;
+    }
+
+    .question_send {
+        margin-top:-5%
+    }
+
+}
+
+@media all and (max-width: 400px) {
+    h2, h4, .ask_questions {
+        font-size: 1rem !important;
+    }
+
+    .index_how_to_win p {
+        font-size: 0.67rem;
+    }
+
+    .question_send {
+        margin-top: -12%;
+    }
+
+    .index_how_to_button {
+        margin-top: -8%;
+    }
+}
+
+@media all and (max-width: 350px) {
+    .index_main_buttons {
+        margin-top: -31px !important;
+    }
+
+    .index_winner .index_how_to_button {
+        margin-top: -23px;
+    }
+
+    p, a {
+        font-size: 12px;
+    }
+
+    h5 {
+        font-size: 1.20rem;
+    }
+}
+
+
+@-moz-document url-prefix() {
+    .index_main_buttons, .index_how_to_button, .index_how_to_code_button, .index_questions .white-text {
+        float: none !important;
+    }
+}
+
